@@ -1,0 +1,6 @@
+org/crud/rest/IUserManagement.class
+org/crud/service/UserService.class
+org/crud/domain/User.class
+org/crud/rest/impl/UserManagement.class
+Application.class
+org/crud/repository/UserCrudRepository.class

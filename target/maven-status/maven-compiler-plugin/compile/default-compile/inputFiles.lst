@@ -1,0 +1,6 @@
+/projects/spring-boot-template/src/main/java/org/crud/repository/UserCrudRepository.java
+/projects/spring-boot-template/src/main/java/org/crud/rest/IUserManagement.java
+/projects/spring-boot-template/src/main/java/Application.java
+/projects/spring-boot-template/src/main/java/org/crud/rest/impl/UserManagement.java
+/projects/spring-boot-template/src/main/java/org/crud/domain/User.java
+/projects/spring-boot-template/src/main/java/org/crud/service/UserService.java
